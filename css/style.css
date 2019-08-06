@@ -33,7 +33,7 @@ body {
     width: 9px;
     height: 6px;
     background-repeat: no-repeat;
-    background-image: url('header/menu/arrow.png');
+    background-image: url('../header/menu/arrow.png');
 }
 
 .menu-item {
@@ -42,7 +42,7 @@ body {
 }
 
 .banner {
-    background-image: url('banner1/wallpaperwide.png');
+    background-image: url('../banner1/wallpaperwide.png');
     background-repeat: no-repeat;
     background-position-x: center;
     text-align: center;
@@ -64,7 +64,7 @@ body {
     width: 72px;
     height: 72px;
     background-repeat: no-repeat;
-    background-image: url('banner1/cir.png');
+    background-image: url('../banner1/cir.png');
     display: flex;
     align-items: center;
     justify-content: center;
@@ -93,7 +93,7 @@ body {
     width: 73px;
     height: 36px;
     background-repeat: no-repeat;
-    background-image: url('featured_content/btn.png');
+    background-image: url('../featured_content/btn.png');
     display: flex;
     align-items: center;
     justify-content: center;
@@ -112,7 +112,7 @@ body {
     width: 36px;
     height: 10px;
     background-repeat: no-repeat;
-    background-image: url('featured_content/more.png');
+    background-image: url('../featured_content/more.png');
 }
 
 .portfolio {
@@ -157,7 +157,7 @@ body {
     width: 154px;
     height: 44px;
     background-repeat: no-repeat;
-    background-image: url('portfolio/content/btn.png');
+    background-image: url('../portfolio/content/btn.png');
     display: flex;
     align-items: center;
     justify-content: center;
